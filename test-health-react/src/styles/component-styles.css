@@ -1,0 +1,181 @@
+.header {
+    top: 0px;
+    left: 0px;
+    width: 1280px;
+    height: 64px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+}
+
+.navimemo {
+top: 8px;
+left: 592px;
+width: 160px;
+height: 48px;
+display: flex;
+overflow: hidden;
+position: absolute;
+align-items: flex-start;
+flex-shrink: 0;
+border-color: transparent;
+}
+
+.iconmenu {
+    top: 16px;
+    left: 1088px;
+    width: 32px;
+    height: 32px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+}
+
+.logo {
+    top: 0px;
+    left: 160px;
+    width: 144px;
+    height: 64px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+}
+
+.componenthex {
+    top: 400px;
+    left: 272px;
+    width: 136px;
+    height: 136px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+}
+
+.iconknife {
+    top: 28px;
+    left: 40px;
+    width: 56px;
+    height: 56px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+}
+
+.iconcup {
+    top: 32px;
+    left: 40px;
+    width: 56px;
+    height: 56px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+}
+
+.componentbtn {
+    top: 1064px;
+    left: 492px;
+    width: 296px;
+    height: 56px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+}
+
+.component-dropdown-menu {
+    top: 32px;
+    left: 0px;
+    width: 280px;
+    height: 72px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+}
+
+.component-photo {
+    top: 0px;
+    left: 0px;
+    width: 234px;
+    height: 241.53125px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+
+.component-record {
+  top: 120px;
+  left: 160px;
+  width: 288px;
+  height: 288px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+
+.my-recommend {
+    top: 24px;
+    left: 24px;
+    width: 240px;
+    height: 240px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+}
+
+.component-column {
+    top: 0px;
+    left: 0px;
+    width: 234px;
+    height: 222px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+}
+
+.footer {
+    top: 1184px;
+    left: 0px;
+    width: 1280px;
+    height: 128px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }

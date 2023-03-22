@@ -1,0 +1,3644 @@
+.web1280my-record-container {
+  min-height: 100vh;
+}
+.web1280my-record-web1280my-record {
+  width: 100%;
+  height: 1928px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.web1280my-record-mydiar-clippinggroup {
+  top: 1144px;
+  left: 160px;
+  width: 229px;
+  height: 32px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.web1280my-record-text {
+  color: rgba(65, 65, 65, 1);
+  width: 229px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 27px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.web1280my-record-frame3 {
+  top: 1176px;
+  left: 160px;
+  width: 960px;
+  height: 480px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(0, 0, 0, 1);
+}
+.web1280my-record-frame52 {
+  top: 0px;
+  left: 0px;
+  width: 231px;
+  height: 231px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.web1280my-record-componentmydiarylist {
+  top: 0px;
+  left: 0px;
+  width: 231px;
+  height: 231px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-image27 {
+  top: 0px;
+  left: 0px;
+  width: 231px;
+  height: 231px;
+  position: absolute;
+  border-color: rgba(112, 112, 112, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+.web1280my-record-frame20210521232-clippinggroup {
+  top: 16px;
+  left: 16px;
+  width: 147px;
+  height: 48px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.web1280my-record-text002 {
+  color: rgba(65, 65, 65, 1);
+  width: 147px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.web1280my-record-frame-clippinggroup {
+  top: 72px;
+  left: 16px;
+  width: 200px;
+  height: 132px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-text004 {
+  color: rgba(65, 65, 65, 1);
+  width: 200px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: W3;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 17px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-frame521 {
+  top: 0px;
+  left: 243px;
+  width: 231px;
+  height: 231px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.web1280my-record-componentmydiarylist1 {
+  top: 0px;
+  left: 0px;
+  width: 231px;
+  height: 231px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-image271 {
+  top: 0px;
+  left: 0px;
+  width: 231px;
+  height: 231px;
+  position: absolute;
+  border-color: rgba(112, 112, 112, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+.web1280my-record-frame20210521232-clippinggroup1 {
+  top: 16px;
+  left: 16px;
+  width: 147px;
+  height: 48px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.web1280my-record-text009 {
+  color: rgba(65, 65, 65, 1);
+  width: 147px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.web1280my-record-frame-clippinggroup1 {
+  top: 72px;
+  left: 16px;
+  width: 200px;
+  height: 132px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-text011 {
+  color: rgba(65, 65, 65, 1);
+  width: 200px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: W3;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 17px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-frame522 {
+  top: 0px;
+  left: 486px;
+  width: 231px;
+  height: 231px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.web1280my-record-componentmydiarylist2 {
+  top: 0px;
+  left: 0px;
+  width: 231px;
+  height: 231px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-image272 {
+  top: 0px;
+  left: 0px;
+  width: 231px;
+  height: 231px;
+  position: absolute;
+  border-color: rgba(112, 112, 112, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+.web1280my-record-frame20210521232-clippinggroup2 {
+  top: 16px;
+  left: 16px;
+  width: 147px;
+  height: 48px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.web1280my-record-text016 {
+  color: rgba(65, 65, 65, 1);
+  width: 147px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.web1280my-record-frame-clippinggroup2 {
+  top: 72px;
+  left: 16px;
+  width: 200px;
+  height: 132px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-text018 {
+  color: rgba(65, 65, 65, 1);
+  width: 200px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: W3;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 17px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-frame523 {
+  top: 0px;
+  left: 729px;
+  width: 231px;
+  height: 231px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.web1280my-record-componentmydiarylist3 {
+  top: 0px;
+  left: 0px;
+  width: 231px;
+  height: 231px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-image273 {
+  top: 0px;
+  left: 0px;
+  width: 231px;
+  height: 231px;
+  position: absolute;
+  border-color: rgba(112, 112, 112, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+.web1280my-record-frame20210521232-clippinggroup3 {
+  top: 16px;
+  left: 16px;
+  width: 147px;
+  height: 48px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.web1280my-record-text023 {
+  color: rgba(65, 65, 65, 1);
+  width: 147px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.web1280my-record-frame-clippinggroup3 {
+  top: 72px;
+  left: 16px;
+  width: 200px;
+  height: 132px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-text025 {
+  color: rgba(65, 65, 65, 1);
+  width: 200px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: W3;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 17px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-frame524 {
+  top: 243px;
+  left: 0px;
+  width: 231px;
+  height: 231px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.web1280my-record-componentmydiarylist4 {
+  top: 0px;
+  left: 0px;
+  width: 231px;
+  height: 231px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-image274 {
+  top: 0px;
+  left: 0px;
+  width: 231px;
+  height: 231px;
+  position: absolute;
+  border-color: rgba(112, 112, 112, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+.web1280my-record-frame20210521232-clippinggroup4 {
+  top: 16px;
+  left: 16px;
+  width: 147px;
+  height: 48px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.web1280my-record-text030 {
+  color: rgba(65, 65, 65, 1);
+  width: 147px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.web1280my-record-frame-clippinggroup4 {
+  top: 72px;
+  left: 16px;
+  width: 200px;
+  height: 132px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-text032 {
+  color: rgba(65, 65, 65, 1);
+  width: 200px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: W3;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 17px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-frame525 {
+  top: 243px;
+  left: 243px;
+  width: 231px;
+  height: 231px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.web1280my-record-componentmydiarylist5 {
+  top: 0px;
+  left: 0px;
+  width: 231px;
+  height: 231px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-image275 {
+  top: 0px;
+  left: 0px;
+  width: 231px;
+  height: 231px;
+  position: absolute;
+  border-color: rgba(112, 112, 112, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+.web1280my-record-frame20210521232-clippinggroup5 {
+  top: 16px;
+  left: 16px;
+  width: 147px;
+  height: 48px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.web1280my-record-text037 {
+  color: rgba(65, 65, 65, 1);
+  width: 147px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.web1280my-record-frame-clippinggroup5 {
+  top: 72px;
+  left: 16px;
+  width: 200px;
+  height: 132px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-text039 {
+  color: rgba(65, 65, 65, 1);
+  width: 200px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: W3;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 17px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-frame526 {
+  top: 243px;
+  left: 486px;
+  width: 231px;
+  height: 231px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.web1280my-record-componentmydiarylist6 {
+  top: 0px;
+  left: 0px;
+  width: 231px;
+  height: 231px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-image276 {
+  top: 0px;
+  left: 0px;
+  width: 231px;
+  height: 231px;
+  position: absolute;
+  border-color: rgba(112, 112, 112, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+.web1280my-record-frame20210521232-clippinggroup6 {
+  top: 16px;
+  left: 16px;
+  width: 147px;
+  height: 48px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.web1280my-record-text044 {
+  color: rgba(65, 65, 65, 1);
+  width: 147px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.web1280my-record-frame-clippinggroup6 {
+  top: 72px;
+  left: 16px;
+  width: 200px;
+  height: 132px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-text046 {
+  color: rgba(65, 65, 65, 1);
+  width: 200px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: W3;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 17px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-frame527 {
+  top: 243px;
+  left: 729px;
+  width: 231px;
+  height: 231px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.web1280my-record-componentmydiarylist7 {
+  top: 0px;
+  left: 0px;
+  width: 231px;
+  height: 231px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-image277 {
+  top: 0px;
+  left: 0px;
+  width: 231px;
+  height: 231px;
+  position: absolute;
+  border-color: rgba(112, 112, 112, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+.web1280my-record-frame20210521232-clippinggroup7 {
+  top: 16px;
+  left: 16px;
+  width: 147px;
+  height: 48px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.web1280my-record-text051 {
+  color: rgba(65, 65, 65, 1);
+  width: 147px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.web1280my-record-frame-clippinggroup7 {
+  top: 72px;
+  left: 16px;
+  width: 200px;
+  height: 132px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-text053 {
+  color: rgba(65, 65, 65, 1);
+  width: 200px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: W3;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 17px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-myexercise {
+  top: 824px;
+  left: 160px;
+  width: 960px;
+  height: 264px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-image26 {
+  top: 0px;
+  left: 0px;
+  width: 960px;
+  height: 264px;
+  position: absolute;
+  border-color: rgba(112, 112, 112, 1);
+}
+.web1280my-record-text058 {
+  top: 16px;
+  left: 24px;
+  color: rgba(255, 255, 255, 1);
+  width: 96px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-text060 {
+  top: 16px;
+  left: 120px;
+  color: rgba(255, 255, 255, 1);
+  width: 146px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 27px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-frame2 {
+  top: 56px;
+  left: 24px;
+  width: 880px;
+  height: 192px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(0, 0, 0, 1);
+}
+.web1280my-record-frame62 {
+  top: 0px;
+  left: 0px;
+  width: 416px;
+  height: 40px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.web1280my-record-componentmyexerciselist {
+  top: 0px;
+  left: 0px;
+  width: 416px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-text062 {
+  top: 7px;
+  color: rgba(255, 255, 255, 1);
+  width: 13px;
+  height: auto;
+  position: absolute;
+  font-size: 5px;
+  align-self: auto;
+  font-style: W3;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 7px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-text063 {
+  left: 16px;
+  color: rgba(255, 255, 255, 1);
+  width: 197px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: W3;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-text065 {
+  left: 335px;
+  color: rgba(255, 204, 33, 1);
+  width: 68px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-text067 {
+  top: 20px;
+  left: 16px;
+  color: rgba(255, 204, 33, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-svg61 {
+  top: 40px;
+  left: 0px;
+  width: 416px;
+  height: 0px;
+  position: absolute;
+}
+.web1280my-record-frame621 {
+  top: 0px;
+  left: 456px;
+  width: 416px;
+  height: 40px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.web1280my-record-componentmyexerciselist1 {
+  top: 0px;
+  left: 0px;
+  width: 416px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-text069 {
+  top: 7px;
+  color: rgba(255, 255, 255, 1);
+  width: 13px;
+  height: auto;
+  position: absolute;
+  font-size: 5px;
+  align-self: auto;
+  font-style: W3;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 7px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-text070 {
+  left: 16px;
+  color: rgba(255, 255, 255, 1);
+  width: 197px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: W3;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-text072 {
+  left: 335px;
+  color: rgba(255, 204, 33, 1);
+  width: 68px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-text074 {
+  top: 20px;
+  left: 16px;
+  color: rgba(255, 204, 33, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-svg611 {
+  top: 40px;
+  left: 0px;
+  width: 416px;
+  height: 0px;
+  position: absolute;
+}
+.web1280my-record-frame622 {
+  top: 48px;
+  left: 0px;
+  width: 416px;
+  height: 40px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.web1280my-record-componentmyexerciselist2 {
+  top: 0px;
+  left: 0px;
+  width: 416px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-text076 {
+  top: 7px;
+  color: rgba(255, 255, 255, 1);
+  width: 13px;
+  height: auto;
+  position: absolute;
+  font-size: 5px;
+  align-self: auto;
+  font-style: W3;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 7px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-text077 {
+  left: 16px;
+  color: rgba(255, 255, 255, 1);
+  width: 197px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: W3;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-text079 {
+  left: 335px;
+  color: rgba(255, 204, 33, 1);
+  width: 68px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-text081 {
+  top: 20px;
+  left: 16px;
+  color: rgba(255, 204, 33, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-svg612 {
+  top: 40px;
+  left: 0px;
+  width: 416px;
+  height: 0px;
+  position: absolute;
+}
+.web1280my-record-frame623 {
+  top: 48px;
+  left: 456px;
+  width: 416px;
+  height: 40px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.web1280my-record-componentmyexerciselist3 {
+  top: 0px;
+  left: 0px;
+  width: 416px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-text083 {
+  top: 7px;
+  color: rgba(255, 255, 255, 1);
+  width: 13px;
+  height: auto;
+  position: absolute;
+  font-size: 5px;
+  align-self: auto;
+  font-style: W3;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 7px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-text084 {
+  left: 16px;
+  color: rgba(255, 255, 255, 1);
+  width: 197px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: W3;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-text086 {
+  left: 335px;
+  color: rgba(255, 204, 33, 1);
+  width: 68px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-text088 {
+  top: 20px;
+  left: 16px;
+  color: rgba(255, 204, 33, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-svg613 {
+  top: 40px;
+  left: 0px;
+  width: 416px;
+  height: 0px;
+  position: absolute;
+}
+.web1280my-record-frame624 {
+  top: 96px;
+  left: 0px;
+  width: 416px;
+  height: 40px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.web1280my-record-componentmyexerciselist4 {
+  top: 0px;
+  left: 0px;
+  width: 416px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-text090 {
+  top: 7px;
+  color: rgba(255, 255, 255, 1);
+  width: 13px;
+  height: auto;
+  position: absolute;
+  font-size: 5px;
+  align-self: auto;
+  font-style: W3;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 7px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-text091 {
+  left: 16px;
+  color: rgba(255, 255, 255, 1);
+  width: 197px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: W3;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-text093 {
+  left: 335px;
+  color: rgba(255, 204, 33, 1);
+  width: 68px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-text095 {
+  top: 20px;
+  left: 16px;
+  color: rgba(255, 204, 33, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-svg614 {
+  top: 40px;
+  left: 0px;
+  width: 416px;
+  height: 0px;
+  position: absolute;
+}
+.web1280my-record-frame625 {
+  top: 96px;
+  left: 456px;
+  width: 416px;
+  height: 40px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.web1280my-record-componentmyexerciselist5 {
+  top: 0px;
+  left: 0px;
+  width: 416px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-text097 {
+  top: 7px;
+  color: rgba(255, 255, 255, 1);
+  width: 13px;
+  height: auto;
+  position: absolute;
+  font-size: 5px;
+  align-self: auto;
+  font-style: W3;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 7px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-text098 {
+  left: 16px;
+  color: rgba(255, 255, 255, 1);
+  width: 197px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: W3;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-text100 {
+  left: 335px;
+  color: rgba(255, 204, 33, 1);
+  width: 68px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-text102 {
+  top: 20px;
+  left: 16px;
+  color: rgba(255, 204, 33, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-svg615 {
+  top: 40px;
+  left: 0px;
+  width: 416px;
+  height: 0px;
+  position: absolute;
+}
+.web1280my-record-frame626 {
+  top: 144px;
+  left: 0px;
+  width: 416px;
+  height: 40px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.web1280my-record-componentmyexerciselist6 {
+  top: 0px;
+  left: 0px;
+  width: 416px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-text104 {
+  top: 7px;
+  color: rgba(255, 255, 255, 1);
+  width: 13px;
+  height: auto;
+  position: absolute;
+  font-size: 5px;
+  align-self: auto;
+  font-style: W3;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 7px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-text105 {
+  left: 16px;
+  color: rgba(255, 255, 255, 1);
+  width: 197px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: W3;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-text107 {
+  left: 335px;
+  color: rgba(255, 204, 33, 1);
+  width: 68px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-text109 {
+  top: 20px;
+  left: 16px;
+  color: rgba(255, 204, 33, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-svg616 {
+  top: 40px;
+  left: 0px;
+  width: 416px;
+  height: 0px;
+  position: absolute;
+}
+.web1280my-record-frame627 {
+  top: 144px;
+  left: 456px;
+  width: 416px;
+  height: 40px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.web1280my-record-componentmyexerciselist7 {
+  top: 0px;
+  left: 0px;
+  width: 416px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-text111 {
+  top: 7px;
+  color: rgba(255, 255, 255, 1);
+  width: 13px;
+  height: auto;
+  position: absolute;
+  font-size: 5px;
+  align-self: auto;
+  font-style: W3;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 7px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-text112 {
+  left: 16px;
+  color: rgba(255, 255, 255, 1);
+  width: 197px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: W3;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-text114 {
+  left: 335px;
+  color: rgba(255, 204, 33, 1);
+  width: 68px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-text116 {
+  top: 20px;
+  left: 16px;
+  color: rgba(255, 204, 33, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-svg617 {
+  top: 40px;
+  left: 0px;
+  width: 416px;
+  height: 0px;
+  position: absolute;
+}
+.web1280my-record-frame {
+  top: 56px;
+  left: 928px;
+  width: 6px;
+  height: 192px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-image {
+  top: 0px;
+  left: 0px;
+  width: 6px;
+  height: 192px;
+  position: absolute;
+  border-color: rgba(208, 208, 208, 1);
+  border-radius: 3px;
+}
+.web1280my-record-image1 {
+  top: 8px;
+  left: 0px;
+  width: 6px;
+  height: 34px;
+  position: absolute;
+  border-color: rgba(112, 112, 112, 1);
+  border-radius: 3px;
+}
+.web1280my-record-bodyrecord {
+  top: 464px;
+  left: 160px;
+  width: 960px;
+  height: 304px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-image22 {
+  top: 0px;
+  left: 0px;
+  width: 960px;
+  height: 304px;
+  position: absolute;
+  border-color: rgba(112, 112, 112, 1);
+}
+.web1280my-record-image30 {
+  top: 264px;
+  left: 32px;
+  width: 56px;
+  height: 24px;
+  position: absolute;
+  border-color: rgba(112, 112, 112, 1);
+  border-radius: 11px;
+}
+.web1280my-record-image31 {
+  top: 264px;
+  left: 104px;
+  width: 56px;
+  height: 24px;
+  position: absolute;
+  border-color: rgba(112, 112, 112, 1);
+  border-radius: 11px;
+}
+.web1280my-record-image32 {
+  top: 264px;
+  left: 176px;
+  width: 56px;
+  height: 24px;
+  position: absolute;
+  border-color: rgba(112, 112, 112, 1);
+  border-radius: 11px;
+}
+.web1280my-record-image33 {
+  top: 264px;
+  left: 248px;
+  width: 56px;
+  height: 24px;
+  position: absolute;
+  border-color: rgba(112, 112, 112, 1);
+  border-radius: 11px;
+}
+.web1280my-record-text118 {
+  top: 16px;
+  left: 24px;
+  color: rgba(255, 255, 255, 1);
+  width: 96px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-text120 {
+  top: 16px;
+  left: 120px;
+  color: rgba(255, 255, 255, 1);
+  width: 146px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 27px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-text122 {
+  top: 264px;
+  left: 53px;
+  color: rgba(255, 204, 33, 1);
+  width: 15px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: W3;
+  text-align: center;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-text123 {
+  top: 264px;
+  left: 125px;
+  color: rgba(255, 204, 33, 1);
+  width: 15px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: W3;
+  text-align: center;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-text124 {
+  top: 264px;
+  left: 197px;
+  color: rgba(255, 204, 33, 1);
+  width: 15px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: W3;
+  text-align: center;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-text125 {
+  top: 264px;
+  left: 269px;
+  color: rgba(255, 255, 255, 1);
+  width: 15px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: W3;
+  text-align: center;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-frame130 {
+  top: 241px;
+  left: 47px;
+  width: 866px;
+  height: 26.625px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-frame40 {
+  top: 0px;
+  left: 542px;
+  width: 16px;
+  height: 15px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.web1280my-record-text126 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 15px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.web1280my-record-text127 {
+  top: 2px;
+  left: 8px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  align-self: auto;
+  font-style: W3;
+  text-align: center;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.web1280my-record-frame44 {
+  top: 0px;
+  left: 849px;
+  width: 17px;
+  height: 15px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.web1280my-record-text128 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 15px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.web1280my-record-text129 {
+  top: 2px;
+  left: 9px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  align-self: auto;
+  font-style: W3;
+  text-align: center;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.web1280my-record-frame41 {
+  top: 0px;
+  left: 618px;
+  width: 17px;
+  height: 15px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.web1280my-record-text130 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 15px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.web1280my-record-text131 {
+  top: 2px;
+  left: 9px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  align-self: auto;
+  font-style: W3;
+  text-align: center;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.web1280my-record-frame45 {
+  top: 0px;
+  left: -1px;
+  width: 17px;
+  height: 15px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.web1280my-record-text132 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 15px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.web1280my-record-text133 {
+  top: 2px;
+  left: 9px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  align-self: auto;
+  font-style: W3;
+  text-align: center;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.web1280my-record-frame48 {
+  top: 0px;
+  left: 230px;
+  width: 17px;
+  height: 15px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.web1280my-record-text134 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 15px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.web1280my-record-text135 {
+  top: 2px;
+  left: 9px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  align-self: auto;
+  font-style: W3;
+  text-align: center;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.web1280my-record-frame42 {
+  top: 0px;
+  left: 695px;
+  width: 17px;
+  height: 15px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.web1280my-record-text136 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 15px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.web1280my-record-text137 {
+  top: 2px;
+  left: 9px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  align-self: auto;
+  font-style: W3;
+  text-align: center;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.web1280my-record-frame46 {
+  top: 0px;
+  left: 77px;
+  width: 16px;
+  height: 15px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.web1280my-record-text138 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 15px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.web1280my-record-text139 {
+  top: 2px;
+  left: 8px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  align-self: auto;
+  font-style: W3;
+  text-align: center;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.web1280my-record-frame49 {
+  top: 0px;
+  left: 306px;
+  width: 22px;
+  height: 15px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.web1280my-record-text140 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 15px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.web1280my-record-text142 {
+  top: 2px;
+  left: 14px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  align-self: auto;
+  font-style: W3;
+  text-align: center;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.web1280my-record-frame43 {
+  top: 0px;
+  left: 772px;
+  width: 17px;
+  height: 15px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.web1280my-record-text143 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 15px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.web1280my-record-text144 {
+  top: 2px;
+  left: 9px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  align-self: auto;
+  font-style: W3;
+  text-align: center;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.web1280my-record-frame47 {
+  top: 0px;
+  left: 153px;
+  width: 17px;
+  height: 15px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.web1280my-record-text145 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 15px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.web1280my-record-text146 {
+  top: 2px;
+  left: 9px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  align-self: auto;
+  font-style: W3;
+  text-align: center;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.web1280my-record-frame50 {
+  top: 0px;
+  left: 385px;
+  width: 20px;
+  height: 15px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.web1280my-record-text147 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 15px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.web1280my-record-text149 {
+  top: 2px;
+  left: 12px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  align-self: auto;
+  font-style: W3;
+  text-align: center;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.web1280my-record-frame115 {
+  top: 0px;
+  left: 463px;
+  width: 21px;
+  height: 15px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.web1280my-record-text150 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 15px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.web1280my-record-text152 {
+  top: 2px;
+  left: 13px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 8px;
+  align-self: auto;
+  font-style: W3;
+  text-align: center;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.web1280my-record-svg131 {
+  top: 54px;
+  left: 55px;
+  width: 851px;
+  height: 185px;
+  position: absolute;
+}
+.web1280my-record-svg114 {
+  top: 75.5px;
+  left: 51.233001708984375px;
+  width: 859px;
+  height: 151px;
+  position: absolute;
+}
+.web1280my-record-svg113 {
+  top: 75.5px;
+  left: 51.233001708984375px;
+  width: 859px;
+  height: 142px;
+  position: absolute;
+}
+.web1280my-record-componentrecord {
+  top: 120px;
+  left: 160px;
+  width: 288px;
+  height: 288px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-svg91 {
+  top: 0px;
+  left: 0px;
+  width: 288px;
+  height: 288px;
+  position: absolute;
+}
+.web1280my-record-my-recommend1 {
+  top: 24px;
+  left: 24px;
+  width: 240px;
+  height: 240px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.web1280my-record-my-recommend1image {
+  top: 2.842170943040401e-14px;
+  left: -4.010890960693359px;
+  width: 394px;
+  height: 263px;
+  opacity: 0.25;
+  position: absolute;
+  border-color: transparent;
+}
+.web1280my-record-text153 {
+  top: 112px;
+  left: 24px;
+  color: rgba(255, 204, 33, 1);
+  width: 240px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-image56 {
+  top: 152px;
+  left: 64px;
+  width: 160px;
+  height: 24px;
+  position: absolute;
+  border-color: rgba(112, 112, 112, 1);
+}
+.web1280my-record-text155 {
+  top: 153px;
+  left: 64px;
+  color: rgba(255, 255, 255, 1);
+  width: 160px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: W3;
+  text-align: center;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-componentrecord1 {
+  top: 120px;
+  left: 496px;
+  width: 288px;
+  height: 288px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-svg911 {
+  top: 0px;
+  left: 0px;
+  width: 288px;
+  height: 288px;
+  position: absolute;
+}
+.web1280my-record-my-recommend2 {
+  top: 24px;
+  left: 24px;
+  width: 240px;
+  height: 240px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-my-recommend2image {
+  top: -16.20457649230957px;
+  left: -39.204830169677734px;
+  width: 384px;
+  height: 256px;
+  opacity: 0.25;
+  position: absolute;
+  border-color: transparent;
+}
+.web1280my-record-text157 {
+  top: 112px;
+  left: 24px;
+  color: rgba(255, 204, 33, 1);
+  width: 240px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-image561 {
+  top: 152px;
+  left: 64px;
+  width: 160px;
+  height: 24px;
+  position: absolute;
+  border-color: rgba(112, 112, 112, 1);
+}
+.web1280my-record-text159 {
+  top: 153px;
+  left: 64px;
+  color: rgba(255, 255, 255, 1);
+  width: 160px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: W3;
+  text-align: center;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-componentrecord2 {
+  top: 120px;
+  left: 832px;
+  width: 288px;
+  height: 288px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-svg912 {
+  top: 0px;
+  left: 0px;
+  width: 288px;
+  height: 288px;
+  position: absolute;
+}
+.web1280my-record-my-recommend3 {
+  top: 24px;
+  left: 24px;
+  width: 240px;
+  height: 240px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-my-recommend3image {
+  top: -20.52240753173828px;
+  left: -101.86051940917969px;
+  width: 427px;
+  height: 285px;
+  opacity: 0.25;
+  position: absolute;
+  border-color: transparent;
+}
+.web1280my-record-text161 {
+  top: 112px;
+  left: 24px;
+  color: rgba(255, 204, 33, 1);
+  width: 240px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-image562 {
+  top: 152px;
+  left: 64px;
+  width: 160px;
+  height: 24px;
+  position: absolute;
+  border-color: rgba(112, 112, 112, 1);
+}
+.web1280my-record-text163 {
+  top: 153px;
+  left: 64px;
+  color: rgba(255, 255, 255, 1);
+  width: 160px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: W3;
+  text-align: center;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-footer {
+  top: 1800px;
+  left: 0px;
+  width: 1280px;
+  height: 128px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-image18 {
+  top: 0px;
+  left: 0px;
+  width: 1280px;
+  height: 128px;
+  position: absolute;
+  border-color: rgba(112, 112, 112, 1);
+}
+.web1280my-record-text165 {
+  top: 56px;
+  left: 160px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 11px;
+  align-self: auto;
+  font-style: W3;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-text167 {
+  top: 56px;
+  left: 250px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 11px;
+  align-self: auto;
+  font-style: W3;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-text169 {
+  top: 56px;
+  left: 340px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 11px;
+  align-self: auto;
+  font-style: W3;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-text171 {
+  top: 56px;
+  left: 429px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 11px;
+  align-self: auto;
+  font-style: W3;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-text173 {
+  top: 56px;
+  left: 596px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 11px;
+  align-self: auto;
+  font-style: W3;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-text175 {
+  top: 56px;
+  left: 774px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 11px;
+  align-self: auto;
+  font-style: W3;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-componentbtn {
+  top: 1680px;
+  left: 492px;
+  width: 296px;
+  height: 56px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-svg88 {
+  top: 0px;
+  left: 0px;
+  width: 296px;
+  height: 56px;
+  position: absolute;
+  box-shadow: 0px 2px 6px 0px rgba(0, 0, 0, 1) ;
+}
+.web1280my-record-text177 {
+  top: 14px;
+  left: 4px;
+  color: rgba(255, 255, 255, 1);
+  width: 288px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: W3;
+  text-align: center;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 26px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-componentscroll {
+  top: 736px;
+  left: 1136px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.web1280my-record-header {
+  top: 0px;
+  left: 0px;
+  width: 1280px;
+  height: 64px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-image16 {
+  top: 0px;
+  left: 0px;
+  width: 1280px;
+  height: 64px;
+  position: absolute;
+  border-color: rgba(112, 112, 112, 1);
+}
+.web1280my-record-logo {
+  top: 0px;
+  left: 160px;
+  width: 144px;
+  height: 64px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-image46 {
+  top: 0px;
+  left: 0px;
+  width: 144px;
+  height: 64px;
+  opacity: 0.00;
+  position: absolute;
+  border-color: rgba(112, 112, 112, 1);
+}
+.web1280my-record-frame138 {
+  top: 16px;
+  left: 16px;
+  width: 109px;
+  height: 39.99993133544922px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-svg82 {
+  top: 0.02800000086426735px;
+  left: 12.227999687194824px;
+  width: 17px;
+  height: 19px;
+  position: absolute;
+}
+.web1280my-record-svg83 {
+  top: 5.289999961853027px;
+  left: 30.226999282836914px;
+  width: 14px;
+  height: 14px;
+  position: absolute;
+}
+.web1280my-record-svg84 {
+  top: 5.372000217437744px;
+  left: 45.89799880981445px;
+  width: 15px;
+  height: 14px;
+  position: absolute;
+}
+.web1280my-record-image45 {
+  top: 0.027577148750424385px;
+  left: 63.03232192993164px;
+  width: 3px;
+  height: 19px;
+  position: absolute;
+  border-color: transparent;
+}
+.web1280my-record-svg85 {
+  top: 0px;
+  left: 79.25700378417969px;
+  width: 13px;
+  height: 19px;
+  position: absolute;
+}
+.web1280my-record-svg86 {
+  top: 2.4179999828338623px;
+  left: 68.30699920654297px;
+  width: 10px;
+  height: 17px;
+  position: absolute;
+}
+.web1280my-record-svg87 {
+  top: 5.372000217437744px;
+  left: 0px;
+  width: 109px;
+  height: 35px;
+  position: absolute;
+}
+.web1280my-record-iconmenu {
+  top: 16px;
+  left: 1088px;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-image50 {
+  top: 0px;
+  left: 0px;
+  width: 32px;
+  height: 32px;
+  opacity: 0.00;
+  position: absolute;
+  border-color: rgba(112, 112, 112, 1);
+}
+.web1280my-record-svg4 {
+  top: 8px;
+  left: 3px;
+  width: 26px;
+  height: 0px;
+  position: absolute;
+}
+.web1280my-record-svg5 {
+  top: 16px;
+  left: 3px;
+  width: 26px;
+  height: 0px;
+  position: absolute;
+}
+.web1280my-record-svg6 {
+  top: 24px;
+  left: 3px;
+  width: 26px;
+  height: 0px;
+  position: absolute;
+}
+.web1280my-record-navimemo {
+  top: 8px;
+  left: 592px;
+  width: 160px;
+  height: 48px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-image49 {
+  top: 0px;
+  left: 0px;
+  width: 160px;
+  height: 48px;
+  opacity: 0.00;
+  position: absolute;
+  border-color: rgba(112, 112, 112, 1);
+}
+.web1280my-record-iconmemo {
+  top: 8px;
+  left: 8px;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-image47 {
+  top: 0px;
+  left: 0px;
+  width: 32px;
+  height: 32px;
+  opacity: 0.00;
+  position: absolute;
+  border-color: rgba(112, 112, 112, 1);
+}
+.web1280my-record-frame139 {
+  top: 3px;
+  left: 3px;
+  width: 26.999662399291992px;
+  height: 26px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.web1280my-record-svg43 {
+  top: 6.2230000495910645px;
+  left: 22.45199966430664px;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+}
+.web1280my-record-svg44 {
+  top: 8.458999633789062px;
+  left: 13.760000228881836px;
+  width: 11px;
+  height: 11px;
+  position: absolute;
+}
+.web1280my-record-image12 {
+  top: 6.934356689453125px;
+  left: 6.34716796875px;
+  width: 9px;
+  height: 1px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.00009999999747378752);
+}
+.web1280my-record-image13 {
+  top: 12.3984375px;
+  left: 6.34716796875px;
+  width: 9px;
+  height: 1px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.00009999999747378752);
+}
+.web1280my-record-image14 {
+  top: 17.862579345703125px;
+  left: 6.3663330078125px;
+  width: 5px;
+  height: 1px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.00009999999747378752);
+}
+.web1280my-record-svg45 {
+  top: 0px;
+  left: 0px;
+  width: 22px;
+  height: 26px;
+  position: absolute;
+}
+.web1280my-record-text179 {
+  top: 12px;
+  left: 48px;
+  color: rgba(255, 150, 60, 1);
+  width: 96px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: W3;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 23px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-navimemo1 {
+  top: 8px;
+  left: 752px;
+  width: 160px;
+  height: 48px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-image491 {
+  top: 0px;
+  left: 0px;
+  width: 160px;
+  height: 48px;
+  opacity: 0.00;
+  position: absolute;
+  border-color: rgba(112, 112, 112, 1);
+}
+.web1280my-record-iconchallenge {
+  top: 8px;
+  left: 8px;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-image48 {
+  top: 0px;
+  left: 0px;
+  width: 32px;
+  height: 32px;
+  opacity: 0.00;
+  position: absolute;
+  border-color: rgba(112, 112, 112, 1);
+}
+.web1280my-record-svg25 {
+  top: 1px;
+  left: 4.5px;
+  width: 23px;
+  height: 30px;
+  position: absolute;
+}
+.web1280my-record-text181 {
+  top: 12px;
+  left: 48px;
+  color: rgba(255, 255, 255, 1);
+  width: 96px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: W3;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 23px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-navimemo2 {
+  top: 8px;
+  left: 912px;
+  width: 160px;
+  height: 48px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-image492 {
+  top: 0px;
+  left: 0px;
+  width: 160px;
+  height: 48px;
+  opacity: 0.00;
+  position: absolute;
+  border-color: rgba(112, 112, 112, 1);
+}
+.web1280my-record-iconinfo {
+  top: 8px;
+  left: 8px;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-image493 {
+  top: 0px;
+  left: 0px;
+  width: 32px;
+  height: 32px;
+  opacity: 0.00;
+  position: absolute;
+  border-color: rgba(112, 112, 112, 1);
+}
+.web1280my-record-svg30 {
+  top: 3px;
+  left: 3.5px;
+  width: 25px;
+  height: 28px;
+  position: absolute;
+}
+.web1280my-record-text183 {
+  top: 12px;
+  left: 48px;
+  color: rgba(255, 255, 255, 1);
+  width: 96px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: W3;
+  text-align: left;
+  font-family: Hiragino Kaku Gothic Pro;
+  font-weight: 400;
+  line-height: 23px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.web1280my-record-infocount {
+  top: 8px;
+  left: 32px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-image6 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  border-color: rgba(112, 112, 112, 1);
+}
+.web1280my-record-frame-clippinggroup {
+  top: 2px;
+  left: 0px;
+  width: 16px;
+  height: 14.5px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.web1280my-record-text185 {
+  color: rgba(255, 255, 255, 1);
+  width: 16px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 12px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
